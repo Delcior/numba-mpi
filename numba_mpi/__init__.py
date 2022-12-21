@@ -4,6 +4,7 @@ from pkg_resources import DistributionNotFound, VersionConflict, get_distributio
 from .api.allreduce import allreduce
 from .api.barrier import barrier
 from .api.bcast import bcast
+from .api.comm_split import comm_split
 from .api.initialized import initialized
 from .api.operator import Operator
 from .api.rank import rank
