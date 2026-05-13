@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 title: "numba-mpi"
 url: "https://github.com/numba-mpi/numba-mpi"
-preferred-citation:
+preferred-citation:   
   type: article
   authors:
   - family-names: "Derlatka"
